@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled output
+dist/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Build files
+build/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# IDE-specific files
+*.idea/
+*.iml
+*.ipr
+*.iws
+
+# Editor backup files
+*~
+
+
+
+
+
+# Miscellaneous
+*.swp
+*.bak
+*.tmp
+*.o
+*.pyc
