@@ -1,4 +1,4 @@
-# chainlinkBackend
+# EmergencyConnect-Backend
 
 # EmergencyConnect
 
@@ -68,7 +68,7 @@ and set the env varibles then
 
 npm run start:server
 
-Deployed at :-
+5. Deployed at :-
 
 backend(admin-panel and AI code):-
 
@@ -97,5 +97,3 @@ We welcome contributions from the community! If you're interested in enhancing E
 EmergencyConnect is released under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize and enhance the README file to align with your project's unique characteristics and goals. Let your creativity shine through to attract users and collaborators to the remarkable potential of EmergencyConnect.
