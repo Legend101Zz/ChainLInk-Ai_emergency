@@ -10,6 +10,8 @@ const app = express();
 const port = 5000;
 const MONGODB_URI: string = process.env.MONGODB_URI || "";
 
+app.set("view engine", "ejs");
+app.use(express.static("public"));
 app.use(morgan("dev"));
 app.use(express.json());
 
